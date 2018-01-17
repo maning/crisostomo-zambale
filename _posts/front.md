@@ -11,5 +11,7 @@ who:
 ---
 
 The Diary of
+
 Crisostomo Ramos Sambale
+
 Chapter V
