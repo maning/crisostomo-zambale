@@ -1,5 +1,5 @@
 ---
-date: YYYY-MM-DD
+date: 1964-MM-DD
 placename: City, village # if mentioned
 location: lon,lat # geocode :point_up:
 language: en, tl, es  #ISO 639-1 language code
@@ -8,8 +8,7 @@ reference: scan/xxx.png #reference to the scanned paper, can be multiple pages, 
 description: Short blurb about the gist of the post.
 who: # relatives mentioned in the diary
  - Ka Paeng
- - Tatay
- - Ka Manuel
+
 ---
 
 Text here
